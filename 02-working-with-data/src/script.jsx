@@ -1,6 +1,3 @@
-// This file should have the extension .jsx so that plunker compiles all the JSX
-// The index.html file will include this file as script.js (not .jsx) however
-
 //Load with Babel
 import $ from "jquery";
 import React from "react";
