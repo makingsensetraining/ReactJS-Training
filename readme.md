@@ -1,10 +1,12 @@
 # ReactJS Training 
 
-Based on _Plural Sight_ tutorials: [ReactJS Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started)
+Based on _Plural Sight_ tutorials:
 
+[ReactJS Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started) -> Folder: `01-react-js-getting-started`
+[ReactJS Fundamentals](https://app.pluralsight.com/library/courses/react-fundamentals) -> Folder: `02-react-fundamentals`
 ### Intro
 Each subfolder is a completely different and standalone ReactJS application.
-For starting you could checkout `00-boilterplate-react` project to start using it and create something from scratch.
+For starting you could checkout `01-react-js-getting-started/00-boilterplate-react` project to start using it and create something from scratch.
 
 
 ### Getting Started
