@@ -1,0 +1,29 @@
+.pass {
+    background-color: Green;
+    height: 250px;
+}
+.fail {
+    background-color: Red;
+    height: 250px;
+}
+
+.answer {
+    border-left: 4px solid LightBlue;
+    background-color: rgb(230, 248, 254);
+    padding: 5px 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.answer:hover{
+    background-color: LightBlue;
+}
+
+.authorimage {
+    display: block;
+    width: 200px;
+    height: auto;
+}
+
+.footer {
+    margin-top: 20px;
+}
