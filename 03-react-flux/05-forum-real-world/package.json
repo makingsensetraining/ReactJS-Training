@@ -1,0 +1,21 @@
+{
+  "name": "learning-reactjs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "watchify src/js/app.js -o lib/app.js"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "flux": "^3.1.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "browserify": {
+      "transform": [["babelify", { "presets": ["react"] }]]
+  }
+}
