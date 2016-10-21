@@ -20,8 +20,7 @@ var ForumAnswer = React.createClass({
                     { answer.body }
                     <div className="pull-right">
                         <small>
-                            <a href="#"
-                               onClick={ this._markCorrect() }>Mark as correct</a>
+                            <a href="#" onClick={ this._markCorrect }>Mark as correct</a>
                         </small>
                     </div>
                 </div>
