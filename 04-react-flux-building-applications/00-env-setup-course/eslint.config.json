@@ -1,12 +1,10 @@
 {
   "root": true,
-  "ecmaFeatures": {
-    "jsx": true
-  },
-  "env": {
-    "browser": true,
-    "node": true,
-    "jquery": true
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
   },
   "rules": {
     "quotes": "off",
@@ -17,8 +15,14 @@
     "no-alert": "off",
     "no-lone-blocks": "off"
   },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
   "globals": {
     "jQuery": true,
     "$": true
   }
 }
+
