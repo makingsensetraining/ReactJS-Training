@@ -1,0 +1,28 @@
+{
+  "root": true,
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "rules": {
+    "quotes": "off",
+    "no-trailing-spaces": "off",
+    "eol-last": "off",
+    "no-unused-vars": "off",
+    "no-underscore-dangle": "off",
+    "no-alert": "off",
+    "no-lone-blocks": "off"
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
+  "globals": {
+    "jQuery": true,
+    "$": true
+  }
+}
+
