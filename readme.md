@@ -22,3 +22,10 @@ When you are over one subfolder/project. Please execute these both commands
 ```
 
 `npm start` will use npm/webpack/babel to compile JSX and serve the app locally on: http://localhost:8080
+
+In the subfolder: `04-react-flux-building-applications` please execute these commands:
+
+```
+	> npm install
+	> gulp
+```

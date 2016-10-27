@@ -1,0 +1,24 @@
+{
+  "name": "learning-reactjs",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browserify": "^13.1.1",
+    "flux": "^3.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-open": "^2.0.0",
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.4",
+    "object-assign": "^4.1.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-route": "^1.0.3",
+    "reactify": "^1.1.1",
+    "toastr": "^2.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
