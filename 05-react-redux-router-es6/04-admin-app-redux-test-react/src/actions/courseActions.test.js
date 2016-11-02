@@ -1,4 +1,4 @@
-import expect from 'expect'
+import expect from 'expect';
 import * as courseActions from './courseActions';
 import * as types from './actionTypes';
 
